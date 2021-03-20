@@ -27,4 +27,4 @@ def digital_root(num):
     return num
 
 
-print(digital_root(2244))
+# print(digital_root(2244))
